@@ -1,0 +1,14 @@
+thumbnail: thumbnail.png
+tags:
+  domains:
+    - paleoclimate
+    - oceanography
+    - model grids
+    - clustering
+    - isotopes
+  packages:
+    - xarray
+    - matplotlib
+    - cartopy
+    - pyleoclim
+    - pandas
