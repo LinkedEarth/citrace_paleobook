@@ -1,0 +1,75 @@
+shortname: C-iTRACE
+type: Paleobook
+thumbnail: thumbnail.png
+parts:
+  - caption: Lifehacks
+    chapters:
+      - shortname: pyODV
+        filename: pyODV
+        thumbnail: pyodv_demo.png
+        tags:
+          domains:
+            - oceanography
+            - tracers
+            - data viz
+          packages:
+            - xarray
+            - matplotlib
+            - cartopy
+            - pandas
+            - seaborn
+      - shortname: data_on_a_model_grid
+        filename: working_with_data_on_a_model_grid
+        thumbnail: citrace_model_grid.png
+        tags:
+          domains:
+            - model output
+            - oceanography
+            - coordinate systems
+          packages:
+            - xarray
+            - matplotlib
+            - cartopy
+            - pandas
+            - intake
+  - caption: Science Bits
+    chapters:
+      - shortname: model_data_comp
+        filename: data_scatter_on_pcolor
+        thumbnail: section_eNd_uncertaintyrange.png
+        tags:
+          domains:
+            - model output
+            - eNd
+          packages:
+            - xarray
+            - matplotlib
+            - cartopy
+            - pandas
+      - shortname: clustering
+        filename: clustering
+        thumbnail: cluster_section.png
+        tags:
+          domains:
+            - clustering
+            - machine learning
+            - watermass geometry
+          packages:
+            - xarray
+            - matplotlib
+            - cartopy
+            - scikit-learn
+      - shortname: model_downcore_D14C
+        filename: PaMoDaCo_downcore_D14C
+        thumbnail: C14_downcore_modelmarchitto.png
+        tags:
+          domains:
+            - C14
+            - Paleoceanography
+            - Deglaciation
+            - Mystery Interval
+          packages:
+            - xarray
+            - matplotlib
+            - cartopy
+            - pandas
