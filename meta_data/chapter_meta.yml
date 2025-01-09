@@ -4,7 +4,7 @@ thumbnail: thumbnail.png
 parts:
   - caption: Lifehacks
     chapters:
-      - shortname: pyODV
+      - shortname: ODV style plots with Python
         filename: pyODV
         thumbnail: pyodv_demo.png
         tags:
@@ -18,7 +18,7 @@ parts:
             - cartopy
             - pandas
             - seaborn
-      - shortname: data_on_a_model_grid
+      - shortname: Working with data on a model grid
         filename: working_with_data_on_a_model_grid
         thumbnail: citrace_model_grid.png
         tags:
@@ -34,7 +34,7 @@ parts:
             - intake
   - caption: Science Bits
     chapters:
-      - shortname: model_data_comp
+      - shortname: eNd model-data comparison (section)
         filename: data_scatter_on_pcolor
         thumbnail: section_eNd_uncertaintyrange.png
         tags:
@@ -46,7 +46,7 @@ parts:
             - matplotlib
             - cartopy
             - pandas
-      - shortname: clustering
+      - shortname: Paleo watermass geometry using clustering
         filename: clustering
         thumbnail: cluster_section.png
         tags:
@@ -59,7 +59,7 @@ parts:
             - matplotlib
             - cartopy
             - scikit-learn
-      - shortname: model_downcore_D14C
+      - shortname: D14C model-data comparison (downcore)
         filename: PaMoDaCo_downcore_D14C
         thumbnail: C14_downcore_modelmarchitto.png
         tags:
