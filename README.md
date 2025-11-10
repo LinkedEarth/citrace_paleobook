@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/635936257.svg)](https://doi.org/10.5281/zenodo.17575008)
+
 # C-iTRACE (and friends) PaleoBook
 
 This PaleoBook looks at how to slice, dice, navigate, visualize and investigate paleoceanographic questions at the interface between models and observations using the multi-proxy, spatially resolved model output from [coarse iTRACE (C-iTRACE) runs](https://sites.google.com/colorado.edu/citrace). 
