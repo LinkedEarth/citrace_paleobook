@@ -133,7 +133,7 @@ dmypy.json
 .idea/*
 
 /_config_file_stash/*
-/_build/*
+/docs/_build/*
 /mybookpath/*
-/LMR_CMIP_paleobookbook/*
 /mynewbook/*
+
