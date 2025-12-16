@@ -18,13 +18,16 @@ The simulation spans 20ka to present at decadal resolution and is forced with mo
 
 ### Contributors
 
-<a href="https://github.com/linked.earth/jordanplanders/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jordanplanders/citrace_paleobook" />
+<a href="https://github.com/LinkedEarth/LMR_CMIP_paleobook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=LinkedEarth/LMR_CMIP_paleobook" />
 </a>
 
 ## Structure
 
 This PaleoBook is made up of two sections: Lifehacks, and Science Bits
+
+## Funding
+This work was supported by NSF Award ICER 2126510
 
 ### Lifehacks
 
